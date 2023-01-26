@@ -1,2 +1,2 @@
 JavaScript-hw-01
-link:
+link: https://mdanamulislam.github.io/JavaScript-hw-01/
