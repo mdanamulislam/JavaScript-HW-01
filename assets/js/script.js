@@ -1,4 +1,4 @@
-///////////Div Background Color Change//////////
+ ///////////Div Background Color Change//////////
 
 let colorBtn = document.getElementById("exOneBtn");
 let mainDiv = document.getElementById("divListOne");
